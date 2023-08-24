@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "UIを薄くするリソースパック",
+    "description": "需要無し・くだらないです。\nby YukaYama0311",
+    "version": [ 1, 0, 0 ],
+    "uuid": "04b995ec-7c3e-451d-862c-094159a22b93",
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "",
+      "version": [ 1, 0, 0 ],
+      "uuid": "6ffbb686-d3b4-45bc-8a6b-fe0ac08abc7d"
+    }
+  ]
+}
